@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![img](https://media.giphy.com/media/3oz8xNkfjM07d7dK0w/giphy.gif#center)
+![img](https://media.giphy.com/media/3oz8xNkfjM07d7dK0w/giphy.gif)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yna2131&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
 <!--
@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+img {
+display: block;
+float: none;
+margin-left: auto;
+margin-right auto;
+width:50%
+}
