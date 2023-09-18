@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![img](https://media.giphy.com/media/3oz8xNkfjM07d7dK0w/giphy.gif)
+![MasterHead](https://media.giphy.com/media/3oz8xNkfjM07d7dK0w/giphy.gif)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yna2131&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
 <!--
 **yna2131/yna2131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
