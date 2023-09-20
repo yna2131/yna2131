@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+<div>
 <img src="https://media.giphy.com/media/3oz8xNkfjM07d7dK0w/giphy.gif" height="100%" width="100%" />
+</div>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <!--
