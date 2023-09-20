@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/3oz8xNkfjM07d7dK0w/giphy.gif" height="100%" width="100%" />
 
-
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <!--
 **yna2131/yna2131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
