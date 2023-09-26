@@ -1,4 +1,4 @@
-###Hi there, I'm Yuna Chung 🖥️
+### Hi there, I'm Yuna Chung 🖥️
 <img src="https://media.giphy.com/media/3oz8xNkfjM07d7dK0w/giphy.gif" height="100%" width="100%" />
 
 ## Github Stats
