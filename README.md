@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Yuna Chung 🖥️ </h1>
+<h1 align="center"> 💻 Hi there, I'm Yuna Chung 🙋🏻‍♀️ </h1>
 <img src="https://media.giphy.com/media/3oz8xNkfjM07d7dK0w/giphy.gif" height="100%" width="100%" />
 
 ## Github Stats 📈
