@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Yuna Chung 🖥️ </h1>
 <img src="https://media.giphy.com/media/3oz8xNkfjM07d7dK0w/giphy.gif" height="100%" width="100%" />
 
-<img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width=10%> **Github Stats**
+## Github Stats 📈
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yna2131&show_icons=true&theme=rose)
 <!--
