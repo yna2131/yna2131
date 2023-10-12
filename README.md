@@ -4,6 +4,7 @@
 ## Github Stats 📈
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yna2131&show_icons=true&theme=rose)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yna2131&layout=compact)](https://github.com/yna2131/github-readme-stats)
 <!--
 **yna2131/yna2131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
